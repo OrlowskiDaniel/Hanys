@@ -1,0 +1,56 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Visual Studio / IDE
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+*.swn
+
+# .NET tooling
+.dotnet/
+.nuget/
+_ReSharper*/
+*.DotSettings.user
+
+# Logs and local data
+*.log
+logs/
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Secrets and local environment configuration
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+appsettings.*.Local.json
+secrets.json
+*.pfx
+*.p12
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Docker local overrides and generated volumes
+docker-compose.override.yml
