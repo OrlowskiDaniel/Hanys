@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="src/Hanys.Application/Hanys.Application.csproj" Id="4e54995d-176d-40b9-8672-1329c53849af" />
+  <Project Path="src/Hanys.Contracts/Hanys.Contracts.csproj" Id="8bba4230-c838-4dfc-970e-dfabf1571e88" />
+  <Project Path="src/Hanys.Domain/Hanys.Domain.csproj" Id="3e840a04-af5e-4773-8ec0-e7478bcd0998" />
+  <Project Path="src/Hanys.Infrastructure/Hanys.Infrastructure.csproj" Id="d4bdaf3e-7765-46ad-9e6c-05058c3df1dc" />
+  <Project Path="src/Hanys.Web/Hanys.Web.csproj" Id="b7a166a2-9c06-4f39-b4ad-eb8d7caf04be" />
+  <Project Path="tests/Hanys.ArchitectureTests/Hanys.ArchitectureTests.csproj" Id="1e9055b9-094d-4c81-bd56-892df3ff5af0" />
+  <Project Path="tests/Hanys.IntegrationTests/Hanys.IntegrationTests.csproj" Id="83cc5a19-aec8-41f3-9504-38d88d238570" />
+  <Project Path="tests/Hanys.UnitTests/Hanys.UnitTests.csproj" Id="422b338c-bf2d-41b1-9552-767749b6f07c" />
+</Solution>
